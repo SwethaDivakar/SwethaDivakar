@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwethaDivakar
 - 👀 I’m interested in cooking, cycling, reading, gaming and singing
-- 🌱 I’m currently learning  cybersecurity(CISSP), python, AI and ML
+- 🌱 I’m currently interested in Pentesting, Capture the Flags(CTF) and have my eye on the CISSP certification
 - 💞️ I’m looking to collaborate on all of the above
 - 📫 How to reach me swe.divakar@gmail.com
 
